@@ -1,0 +1,11 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+        "Aviso": "Utilizando .NET 6 + Azure Functions",        
+        "Redis": "localhost:6379",
+        "Saudacao": "Olá a todos!",
+        "SimularFalha": "true"
+    }
+}
